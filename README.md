@@ -49,8 +49,3 @@ I'm a dedicated and efficient developer with a strong desire to craft beautiful 
 - [LinkedIn](https://www.linkedin.com/in/komronbek-olimov-00648727a)
 - [Instagram](https://www.instagram.com/komronbek.olimov/)
 
----
-
-<p align="center">
-  <img src="https://komronbeko.github.io/profile-views-badge.svg" alt="Profile Views" />
-</p>
